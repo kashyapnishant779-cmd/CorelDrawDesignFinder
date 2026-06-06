@@ -1,0 +1,6 @@
+{
+  "name": "CorelDRAW Design Finder",
+  "description": "Windows 7 compatible C# WinForms (.NET 4.5) application to scan directories, extract CorelDRAW ZIP preview thumbnails, compute grayscale image hashes, and locate matching duplicate vector layouts. Features a complete interactive desktop sandbox and solution source viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
