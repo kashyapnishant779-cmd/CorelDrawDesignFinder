@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorelDrawDesignFinder", "CorelDrawDesignFinder\CorelDrawDesignFinder.csproj", "{49A39BE9-1F18-4EE4-B6E9-C660B4AC6CF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorelDrawDesignFinder", "CorelDrawDesignFinder.csproj", "{49A39BE9-1F18-4EE4-B6E9-C660B4AC6CF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
